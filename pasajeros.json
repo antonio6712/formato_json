@@ -1,0 +1,34 @@
+[{
+        "nombre": "antonio",
+        "edad": 76,
+        "PrecioAciento": 234,
+        "pagado": true,
+        "asiento": {
+            "numero": 13,
+            "letra": "f",
+            "cargdo": false
+        },
+        "historial": [{
+                "salida": "nueva york",
+                "destino": "chicago",
+                "fecha": "10/10/2000"
+            },
+            {
+                "salida": "Madrid",
+                "destino": "Barcelona",
+                "fecha": "10/10/2000"
+            }
+        ]
+    },
+    {
+        "nombre": "roberto",
+        "edad": 76,
+        "PrecioAciento": 234,
+        "pagado": true,
+        "asiento": {
+            "numero": 13,
+            "letra": "f",
+            "cargdo": false
+        }
+    }
+]
